@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+.idea/
